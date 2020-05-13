@@ -1,0 +1,10 @@
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP 5.2 Klient.csprojAssemblyReference.cache
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP_5._2_Klient.klientForm.resources
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP_5._2_Klient.Properties.Resources.resources
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP 5.2 Klient.csproj.GenerateResource.cache
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP 5.2 Klient.csproj.CoreCompileInputs.cache
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\bin\Debug\TCP 5.2 Klient.exe.config
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\bin\Debug\TCP 5.2 Klient.exe
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\bin\Debug\TCP 5.2 Klient.pdb
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP 5.2 Klient.exe
+C:\Users\linus\source\repos\TCP 5.2 Klient\TCP 5.2 Klient\obj\Debug\TCP 5.2 Klient.pdb

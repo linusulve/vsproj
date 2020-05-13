@@ -1,0 +1,10 @@
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP 5.2.csprojAssemblyReference.cache
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP_5._2.ServerForm.resources
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP_5._2.Properties.Resources.resources
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP 5.2.csproj.GenerateResource.cache
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP 5.2.csproj.CoreCompileInputs.cache
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\bin\Debug\TCP 5.2.exe.config
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\bin\Debug\TCP 5.2.exe
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\bin\Debug\TCP 5.2.pdb
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP 5.2.exe
+C:\Users\linus\source\repos\TCP 5.2\TCP 5.2\obj\Debug\TCP 5.2.pdb
